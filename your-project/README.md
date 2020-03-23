@@ -5,19 +5,6 @@
 
 *Data Analytics, Lisbon 2020*
 
-## Content
-- [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-questions)
-- [Dataset](#dataset)
-- [Cleaning](#cleaning)
-- [Analysis](#analysis)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Conclusion](#conclusion)
-- [Future Work](#future-work)
-- [Workflow](#workflow)
-- [Organization](#organization)
-- [Links](#links)
-
 ## Project Description
 For my final project, I wanted to look into computer vision and machine learning for image and video processing. I started by blurring people's faces and then explored facial recogniton.
 
